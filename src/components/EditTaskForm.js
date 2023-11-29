@@ -85,7 +85,7 @@ const EditTaskForm = () => {
           </form>
         </div>
         <footer className="mt-4 text-center task-manager-footer">
-          <p>&copy; 2023 @Mayank Gupta</p>
+          <p>&copy; 2023 @Ashish Kumar</p>
         </footer>
       </div>
     </div>
