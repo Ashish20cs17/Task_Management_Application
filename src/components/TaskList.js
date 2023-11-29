@@ -62,7 +62,7 @@ const TaskList = () => {
           </div>
         </div>
         <footer className="mt-4 text-center task-manager-footer">
-          <p>&copy; 2023 @Mayank Gupta</p>
+          <p>&copy; 2023 @Ashish Kumar 20CS17</p>
         </footer>
       </div>
     </div>
